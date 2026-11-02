@@ -1,0 +1,8 @@
+{
+  "name": "Clean Soft Dark Portfolio",
+  "description": "A premium, production-ready personal portfolio web application with dark/light theme, bilingual EN/Bengali localization, interactive project galleries, and Cloudflare Pages static readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

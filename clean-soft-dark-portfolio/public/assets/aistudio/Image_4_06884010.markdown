@@ -1,0 +1,265 @@
+---
+name: Clean Soft Dark Portfolio
+colors:
+  surface: '#111414'
+  surface-dim: '#111414'
+  surface-bright: '#373a3a'
+  surface-container-lowest: '#0c0f0f'
+  surface-container-low: '#191c1c'
+  surface-container: '#1d2020'
+  surface-container-high: '#282a2a'
+  surface-container-highest: '#323535'
+  on-surface: '#e1e3e2'
+  on-surface-variant: '#c1c8cb'
+  inverse-surface: '#e1e3e2'
+  inverse-on-surface: '#2e3131'
+  outline: '#8b9295'
+  outline-variant: '#41484b'
+  surface-tint: '#a5cddb'
+  primary: '#a5cddb'
+  on-primary: '#083541'
+  primary-container: '#83aab8'
+  on-primary-container: '#153f4b'
+  inverse-primary: '#3d6470'
+  secondary: '#a5cdd9'
+  on-secondary: '#07353f'
+  secondary-container: '#274e59'
+  on-secondary-container: '#97bfcb'
+  tertiary: '#f0bc98'
+  on-tertiary: '#48290f'
+  tertiary-container: '#ca9a78'
+  on-tertiary-container: '#533218'
+  error: '#ffb4ab'
+  on-error: '#690005'
+  error-container: '#93000a'
+  on-error-container: '#ffdad6'
+  primary-fixed: '#c1e9f8'
+  primary-fixed-dim: '#a5cddb'
+  on-primary-fixed: '#001f27'
+  on-primary-fixed-variant: '#244c58'
+  secondary-fixed: '#c0e9f6'
+  secondary-fixed-dim: '#a5cdd9'
+  on-secondary-fixed: '#001f26'
+  on-secondary-fixed-variant: '#244c56'
+  tertiary-fixed: '#ffdcc5'
+  tertiary-fixed-dim: '#f0bc98'
+  on-tertiary-fixed: '#2f1401'
+  on-tertiary-fixed-variant: '#623f23'
+  background: '#111414'
+  on-background: '#e1e3e2'
+  surface-variant: '#323535'
+  surface-base: '#101313'
+  surface-secondary: '#171D1F'
+  surface-card: '#35464D'
+  surface-card-elevated: '#3B4C53'
+  text-primary: '#F5F7F8'
+  text-secondary: '#B5C1C5'
+  text-muted: '#84949A'
+  border-dark: rgba(255, 255, 255, 0.09)
+  light-bg: '#F5F7F8'
+  light-surface: '#FFFFFF'
+  light-text-primary: '#172126'
+  light-text-secondary: '#52636B'
+  light-accent: '#527F8D'
+  light-border: '#E2E8EB'
+typography:
+  display-hero:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 56px
+    fontWeight: '700'
+    lineHeight: 68px
+    letterSpacing: -0.03em
+  display-hero-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 36px
+    fontWeight: '700'
+    lineHeight: 44px
+    letterSpacing: -0.02em
+  headline-xl:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 40px
+    fontWeight: '600'
+    lineHeight: 50px
+    letterSpacing: -0.02em
+  headline-xl-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 28px
+    fontWeight: '600'
+    lineHeight: 36px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 28px
+    fontWeight: '600'
+    lineHeight: 36px
+    letterSpacing: -0.015em
+  headline-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 22px
+    fontWeight: '600'
+    lineHeight: 30px
+    letterSpacing: -0.01em
+  headline-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 18px
+    fontWeight: '600'
+    lineHeight: 26px
+    letterSpacing: -0.005em
+  body-lg:
+    fontFamily: Inter
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+  body-md:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 26px
+  body-sm:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 22px
+  label-eyebrow:
+    fontFamily: Manrope
+    fontSize: 12px
+    fontWeight: '700'
+    lineHeight: 16px
+    letterSpacing: 0.12em
+  label-interactive:
+    fontFamily: Manrope
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.01em
+  label-tag:
+    fontFamily: Manrope
+    fontSize: 12px
+    fontWeight: '500'
+    lineHeight: 16px
+    letterSpacing: 0.02em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 1rem
+  margin: 2rem
+  margin-mobile: 1.25rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+
+This design system expresses a refined, architectural, and tactile digital presence built specifically for high-caliber graphic designers, brand architects, and creative directors. The brand aesthetic merges European editorial minimalism with soft dark mode tonality, eschewing high-contrast neon cyber aesthetics in favor of organic deep slate, muted charcoal, and seafoam teal accents.
+
+The interface evokes quiet authority, creative rigor, and tactile sophistication. It communicates polish to corporate clients and agency design leads through restrained typography, deliberate pacing of whitespace, and subtle matte 3D geometric iconography that feels physically crafted rather than digitally synthetic.
+
+Key aesthetic pillars:
+- **Soft Dark Architectural Foundations:** Surfaces rise gradually in luminous steps, avoiding pure black voids and sharp contrast spikes.
+- **Editorial Precision:** Clear typographic hierarchy that effortlessly balances technical graphic design portfolios with long-form bilingual reading.
+- **Tactile Softness:** Subtly illuminated volumetric elements, understated micro-interactions, and low-contrast ghost perimeters.
+
+## Colors
+
+The palette is anchored by low-strain charcoal and slate tones, accented by mineral seafoam teals. Rather than relying on stark black and blinding neon highlights, the primary dark scheme uses soft illumination tiers to define spatial boundaries.
+
+### Dark Mode (Default)
+- **Canvas Base (`#101313`):** The foundational backdrop, absorbing visual fatigue and framing portfolio visuals with deep slate warmth.
+- **Secondary Surface (`#171D1F`):** Used for structural sections, sidebars, and nested container bands.
+- **Card Containers (`#35464D`):** Mid-tone slate surface providing solid contrast for cards, project modules, and form inputs.
+- **Elevated Surfaces (`#3B4C53`):** The active and hovered surface tier, establishing immediate hierarchy upon interaction.
+- **Text Layers:** Primary typography relies on pristine slate white (`#F5F7F8`), secondary metadata utilizes soft steel (`#B5C1C5`), and utility metadata uses muted slate (`#84949A`).
+- **Interactive Accents:** Primary interactive elements and calls to action use `#83AAB8`; secondary filters, badges, and focus rings rely on `#9AC2CE`.
+- **Perimeter Borders:** `rgba(255, 255, 255, 0.09)` provides ghost definitions across all dark modules.
+
+### Light Mode (Complementary)
+The light theme is an intentional, independently balanced counterpart rather than a raw color inversion:
+- **Canvas Base (`#F5F7F8`):** Gentle cool off-white.
+- **Card Surfaces (`#FFFFFF`):** Crisp pure white containers with structured soft borders (`#E2E8EB`).
+- **Text Hierarchy:** High-contrast slate ink (`#172126`) for headings and body copy, supported by secondary slate (`#52636B`).
+- **Accent:** Deepened mineral teal (`#527F8D`) maintaining AA+ accessibility contrast against light grounds.
+
+## Typography
+
+The typographic hierarchy pairs three complementary typefaces to create clear delineation between structural display statements, long-form editorial copy, and interface instrumentation:
+- **Headlines (`Plus Jakarta Sans`):** Soft, contemporary geometric grotesque geometry with slight roundness in the terminals, granting warmth and authoritativeness to project showcases and hero statements.
+- **Body Copy (`Inter`):** Systematic, hyper-legible neutral workhorse ensuring zero eye strain across extended project case studies and biographical narrative.
+- **Labels & Microcopy (`Manrope`):** Clean, modern, and structured sans-serif applied with strict tracking rules for small tags, eyebrows, interactive buttons, and timeline metadata.
+- **Bilingual Bengali Support:** All Latin tokens map directly to `Noto Sans Bengali` in localized contexts. Line-height tokens automatically expand by 15% when rendering Bengali to accommodate ascenders, descenders, and conjunct glyphs without vertical clipping.
+
+## Layout & Spacing
+
+This design system is built on a 12-column responsive fluid grid anchored by comfortable maximum widths and generous vertical padding, prioritizing gallery-like presentation.
+
+### Breakpoints & Container Logic
+- **Desktop Wide (1440px - 1920px):** Max container width `1320px`, 12 columns, `1.5rem` gutters, `2rem` outer margins. Hero and showcase areas utilize a 2-column asynchronous split (7-column visual / 5-column narrative).
+- **Tablet (768px - 1023px):** Fluid columns adapt to an 8-column layout with `1.25rem` gutters and `1.5rem` canvas margins. Case study grids fold from 3 columns down to 2 columns.
+- **Mobile (360px - 767px):** 4-column layout with `1rem` gutters and `1.25rem` outer margins. All horizontal splits collapse into a single stacked column.
+
+### Rhythm & Flow
+- Structural section dividers maintain a minimum separation of `space-xl` multiplied by 2 (`5rem` / `80px`) on desktop, ensuring clear visual breaks between the Hero, About, Portfolio Showcase, and Experience timelines.
+- Component internal padding follows an 8pt base grid logic (`space-sm` for compact pills, `space-md` for inputs and action buttons, `space-lg` to `space-xl` for card enclosures).
+
+## Elevation & Depth
+
+Depth is articulated through luminance stepping, soft ambient lighting, and subtle low-contrast borders rather than harsh drop shadows.
+
+### Surface Tiers
+Visual elevation uses four dark-mode surface stages:
+1. **Level 0 (Canvas Base):** `#101313` — The infinite background plane.
+2. **Level 1 (Structural Sections):** `#171D1F` — Recessed drawers, section ribbons, and secondary modules.
+3. **Level 2 (Default Cards & Fields):** `#35464D` — Floating content surfaces, form elements, and showcase wrappers.
+4. **Level 3 (Hovered / Floating Units):** `#3B4C53` — Elevated active cards, dropdown menus, and popover dialogs.
+
+### Border Framing
+All dark surface levels 2 and 3 are defined with a hairline border: `1px solid rgba(255, 255, 255, 0.09)`. This prevents surface-bleeding while reinforcing a precise architectural feel.
+
+### Shadows & 3D Elements
+- **Ambient Card Shadows:** Cards elevated on hover receive a deep, tinted shadow: `0 16px 32px -8px rgba(0, 0, 0, 0.45)`.
+- **Soft 3D Iconography:** Visual assets leverage diffuse frontal lighting with gentle gradients, creating the illusion of matte extruded clay or carved stone hovering above the `#35464D` surface without harsh highlights.
+
+## Shapes
+
+The design system adopts a balanced **Rounded (level 2)** shape standard:
+- **Base Geometry:** Standard containers, form fields, and interactive modules feature `0.5rem` (8px) corner radii.
+- **Containers & Display Cards (`rounded-lg`):** Main portfolio cards, experience timelines, and modals use `1rem` (16px) corner radii.
+- **Hero Imagery & Framing (`rounded-xl`):** Hero portrait boundaries and featured project showcases carry a soft `1.5rem` (24px) radius.
+- **Pill Exceptions:** Skill tags, interactive filter chips, and primary action buttons utilize full capsule geometry (`9999px`) to create an inviting contrast against rectilinear grid cards.
+
+## Components
+
+### Buttons
+- **Primary Action Button:** Pill-shaped (`rounded-full`), padded with `0.75rem 1.75rem`. Fill `#83AAB8` with text `#101313` (`label-interactive`, bold 600). Hover state shifts background to `#9AC2CE` with an elevation transform of `-1px`.
+- **Secondary / Ghost Button:** Pill-shaped, transparent background with `1px solid rgba(255, 255, 255, 0.2)` and text `#F5F7F8`. On hover, fills with `#35464D` and borders brighten to `#83AAB8`.
+
+### Chips & Badges
+- **Interactive Filter Chips:** Compact capsule geometry (`padding: 0.35rem 0.85rem`). Resting state uses `#171D1F` with a subtle `rgba(255,255,255,0.09)` border and `#B5C1C5` text. Active state uses `#83AAB8` background with `#101313` text.
+- **Skill / Metadata Tags:** Non-interactive tags rest on `#35464D` with `#B5C1C5` typography (`label-tag`), keeping attention focused on the primary card content.
+
+### Cards
+- **Project & Experience Cards:** Base background `#35464D`, `1rem` border radius, `1px solid rgba(255, 255, 255, 0.09)` border, internal padding `space-lg` to `space-xl`. 
+- **Card Hover State:** Smooth 250ms ease transition elevating the background to `#3B4C53`, applying the ambient shadow, and shifting accent icons upward by `2px`.
+
+### Input Fields
+- **Text Inputs & Textareas:** Background `#171D1F`, border `1px solid rgba(255, 255, 255, 0.12)`, radius `0.5rem`, typography `#F5F7F8` (`body-md`), placeholder in `#84949A`. Focused state illuminates the border with `#83AAB8` and applies an outer ring of `0 0 0 3px rgba(131, 170, 184, 0.2)`.
+
+### Checkboxes & Radio Buttons
+- Base state features a `1.25rem` square or circle with `#171D1F` fill and `1px solid rgba(255, 255, 255, 0.2)` border.
+- Checked state fills with `#83AAB8` with a dark check icon (`#101313`).
+
+### Lists & Timelines
+- Timeline rows feature subtle vertical connectors styled with `1px dashed rgba(255, 255, 255, 0.15)`.
+- Timeline nodes use `#35464D` discs framed with a `2px solid #83AAB8` accent rim.
+
+### Theme & Localization Switchers
+- **Theme Toggle:** Compact icon button housing an SVG morph between the Sun and Moon, framed in `#35464D` with `#F5F7F8` icon fill.
+- **Locale Switcher:** Pill-shaped selector with a globe icon, providing seamless switching between English and Bengali without layout shifts.
